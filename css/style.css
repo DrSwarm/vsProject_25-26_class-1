@@ -21,7 +21,7 @@ body {
 }
 
 article {
-    width: 100%;
+    width: 100vh;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ article h1 {
 
 article p {
     font-size: 1.2rem;
-    color: #666;
+    color: #555;
     margin-top: 10px;
     border: 2px solid black;
 }
